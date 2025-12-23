@@ -1,18 +1,42 @@
-# 💫 About Me:
-I am Ufuk Can Isbildi. I am a programming enthusiast from Turkiye. 
+## About Me
 
+Hi there, I'm Ufuk👋
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=uisbildidev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=uisbildidev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uisbildidev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a Computer Science graduate (Associate Degree) with a passion for coding and exploring new programming technologies. I started programming at 14 and have been continuously learning and building projects ever since.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=uisbildidev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I’m currently diving into Laravel, Vue.js, and Inertia.js, focusing on full-stack development. While I have experience as an IT Technician from internships and part-time work, my main interest lies in development and programming.
 
----
-[![](https://visitcount.itsvg.in/api?id=uisbildidev&icon=0&color=0)](https://visitcount.itsvg.in)
+I enjoy creating clean, efficient code, learning new technologies, and tackling challenges that push my skills further.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Every project I work on is a chance to learn something new and strengthen my programming skills.
+
+## My Skills
+
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"> 
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"> 
+<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+<img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"> 
+<img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff"> 
+<img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff"> 
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
+<img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff"> 
+
+## GitHub Stats
+
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&theme=dark&show_icons=true&count_private=true">
+
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=brandonc123&theme=dark"></td><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=brandonc123&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+## Connect with me
+
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">John Doe</a> Email: johndoe@gmail.com</p>
